@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning business analytics
 - 💞️ I’m looking to collaborate with analysts to grow my skills
 - 📫 How to reach me +256785992497, , ainyrony@gmail.com
-- looking for an organisation to volunteer as a data analyst
+
 
 <!---
 aineronie/aineronie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
